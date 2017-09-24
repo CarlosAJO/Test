@@ -1,3 +1,5 @@
-avanzando contenido 1<<<<<<< HEAD
+A avanzando contenido 1
+
+A avanza más contenido 1
 
 B avanza contenido
